@@ -1,4 +1,4 @@
-<a href="../../../../pages/adoption/predix-rmd-ref-app" target="_blank">
+<a href="http://predixdev.github.io/predix-rmd-ref-app" target="_blank">
 	<img height="50px" width="100px" src="images/pages.jpg" alt="view github pages">
 </a>
 Predix RMD Reference App 
